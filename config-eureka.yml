@@ -1,7 +1,8 @@
+
 spring:
   profiles:
     active: dev
-
+---
 #spring的配置
 spring:
   profiles: dev
